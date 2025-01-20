@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shi-25-ell
-- 👀 I’m interested in card gamed
+- 👀 I’m interested in card games
 - 🌱 I’m currently learning c programming language
 - 💞️ I’m looking to collaborate on developing games
 
